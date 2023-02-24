@@ -1,6 +1,6 @@
 {
 	"name": "prettier-plugin-descending-imports",
-	"version": "1.0.2",
+	"version": "1.0.0",
 	"description": "A prettier plugin for sorting imports by length in descending order",
 	"main": "dist/index.js",
 	"repository": "https://github.com/ccencisoj/prettier-plugin-descending-imports",
@@ -13,7 +13,7 @@
 		"esbuild": "^0.14.11",
 		"swc": "^1.0.11",
 		"ts-node": "^10.9.1",
-		"typescript": "^4.9.5"
+		"typescript": "^4.0.3"
 	},
 	"dependencies": {
 		"@types/typescript": "^2.0.0",
