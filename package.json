@@ -1,9 +1,9 @@
 {
-	"name": "prettier-plugin-ascending-imports",
+	"name": "prettier-plugin-descending-imports",
 	"version": "1.0.0",
-	"description": "A prettier plugin for sorting imports by length in ascending order",
+	"description": "A prettier plugin for sorting imports by length in descending order",
 	"main": "dist/index.js",
-	"repository": "https://github.com/ccencisoj/prettier-plugin-ascending-imports",
+	"repository": "https://github.com/ccencisoj/prettier-plugin-descending-imports",
 	"author": "Cristian Enciso <ccencisoj@gmail.com>",
 	"license": "MIT",
 	"devDependencies": {
@@ -16,6 +16,7 @@
 		"typescript": "^4.0.3"
 	},
 	"dependencies": {
+		"@types/typescript": "^2.0.0",
 		"prettier": "^2.5.1"
 	},
 	"peerDependencies": {

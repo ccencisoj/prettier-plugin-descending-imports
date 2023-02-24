@@ -1,17 +1,17 @@
 # Prettier Plugin: Sort imports
 
-A prettier plugin that sorts import statements by either their length in ascending order.
+A prettier plugin that sorts import statements by either their length in descending order.
 
 ### Input
 ![](./images/imports.png)
 
 ### Output
-![](./images/ascending_imports.png)
+![](./images/descending_imports.png)
 
 ## Installation
 
 ```sh
-npm install --save-dev prettier-plugin-ascending-imports
+npm install --save-dev prettier-plugin-descending-imports
 ```
 
 ## Usage
