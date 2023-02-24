@@ -1,4 +1,4 @@
-# Prettier Plugin: Sort imports
+# Prettier Plugin: Descending imports
 
 A prettier plugin that sorts import statements by either their length in descending order.
 
